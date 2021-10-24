@@ -1,4 +1,4 @@
-#🐛🌻
+### 🐛 :waxing_crescent_moon: 🌓:waxing_gibbous_moon: :waning_gibbous_moon: One day in the cryptocurrency circle, one year in the world
 ## 🚀 Quick start (Gatsby Cloud)
 
 Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cloud/):
