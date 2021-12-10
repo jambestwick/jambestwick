@@ -1,4 +1,11 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jambestwick.jambestwick">
+
+
 ### 🐛 :waxing_crescent_moon: 🌓:waxing_gibbous_moon: :waning_gibbous_moon: One day in the cryptocurrency circle, one year in the world
+
+## Twitter:
+##  [![Follow on Twitter](https://img.shields.io/twitter/follow/jambestwick.svg)](https://twitter.com/intent/follow?screen_name=jambestwick)
+
 ## 🚀 Quick start (Gatsby Cloud)
 Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cloud/):
 [<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-starter-default)
