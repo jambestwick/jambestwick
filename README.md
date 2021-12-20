@@ -5,8 +5,8 @@
 ### One day in the cryptocurrency circle, one year in the world
 ### About Me:
 #### I'm Front-End Enigneer,use Android/Vue/Springboot... ...
-- Co-Founder China Electronic the collection(ETC) , App Team Leader of RoadPark 
-- Colar's father, doge holder, block-chain developer.
++ Co-Founder China Electronic the collection(ETC) , App Team Leader of RoadPark 
++ Colar's father, doge holder, block-chain developer.
 ### Twitter: jambestwick
 ###  [![Follow on Twitter](https://img.shields.io/twitter/follow/jambestwick.svg)](https://twitter.com/intent/follow?screen_name=jambestwick)
 
