@@ -7,7 +7,7 @@
 + I'm senior Full-Stack Enigneer,use Android/Vue/Springboot... ...
 + Co-Founder China Electronic the collection(ETC) , App Team Leader of RoadPark 
 + Colar's father, doge holder, block-chain developer.
-+ **:moneybag::moneybag::moneybag: BTC Web3 builder**
++ **:moneybag::moneybag::moneybag: BTC ETH SOL **
 ### Twitter: jambestwick
 ###  [![Follow on Twitter](https://img.shields.io/twitter/follow/jambestwick.svg)](https://twitter.com/intent/follow?screen_name=jambestwick)
 
