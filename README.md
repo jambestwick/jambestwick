@@ -1,15 +1,23 @@
+
+### Hi <img src="https://github.com/jambestwick/jambestwick/blob/master/src/wave.gif" width="30px">
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jambestwick.jambestwick">
 
-
-## :oncoming_automobile: HappyNewYear 2022  My Baby One Year Old
+### :oncoming_automobile: HappyNewYear 2022  My Baby One Year Old
 
 ### About Me:
-+ I'm [jambestwick](https://linktr.ee/jambestwick) senior Full-Stack Enigneer,use Android/Vue/Springboot, Expert in the field of **Mobile** development
-+ 🗼 Living in Beijing<-->Xian, China
-+ ✈️ Open to Remote Job Opportunities 🍻
-+ Now Work at China Electronic the collection(ETC) , Application Leader of RoadPark 
-+ Colar's father, dogecoin holder, block-chain developer part time.
-+ **:moneybag::moneybag::moneybag:  Bitcoin Ethereum Solana **
+- I'm [jambestwick](https://linktr.ee/jambestwick) senior Full-Stack Enigneer,use Android/Vue/Springboot, Expert in the field of **Mobile** development
+
+- 🗼 Living in Beijing<-->Xian, China
+
+- ✈️ Open to Remote Job Opportunities 🍻
+
+- 👷‍♂️ Now Work at China Electronic the collection(ETC) , Application Leader of RoadPark 
+
+- 👶 💌 Colar's father, dogecoin holder, block-chain developer part time.
+
+- 💰💰 💳  **Bitcoin Ethereum Solana**
+
 ### Twitter: jambestwick
 ###  [![Follow on Twitter](https://img.shields.io/twitter/follow/jambestwick.svg)](https://twitter.com/intent/follow?screen_name=jambestwick)
 
