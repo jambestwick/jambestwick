@@ -19,10 +19,11 @@
 - 💰💰 💳  **Bitcoin Ethereum Solana**
 
 ### GithubStatus
+| ------------- | ------------- |
 | [![jambestwick's GitHub stats](https://github-readme-stats.vercel.app/api?username=jambestwick)](https://github.com/anuraghazra/github-readme-stats) |
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jambestwick)](https://github.com/anuraghazra/github-readme-stats) |
 
-| ------------- | ------------- |
+
 
 ### Twitter: jambestwick
 ###  [![Follow on Twitter](https://img.shields.io/twitter/follow/jambestwick.svg)](https://twitter.com/intent/follow?screen_name=jambestwick)
