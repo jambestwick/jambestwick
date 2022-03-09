@@ -22,7 +22,7 @@ const IndexPage = () => (
     <p>
       <Link to="/page-2/">Go to page 2</Link> <br />
       <Link to="/using-typescript/">Go to "Using TypeScript"</Link>
-      <a href="https://github.com/jambestwick">Go to "jambestwick Github"</Link>
+      <Link to="https://github.com/jambestwick">Go to "jambestwick Github"</Link>
     </p>
   </Layout>
 )
