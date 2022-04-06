@@ -15,6 +15,7 @@
 - 👷‍♂️ Now Work at China Electronic the collection(ETC) , Application Leader of RoadPark 
 
 - 👶 💌 Colar's father, dogecoin holder, block-chain developer part time.
+- 🍼 AFK for Baby ,I Love my son 💑 💝
 
 - 💰💰 💳  **Bitcoin Ethereum Solana**
 
