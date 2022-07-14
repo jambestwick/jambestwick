@@ -8,7 +8,7 @@
 ### About Me:
 - I'm [jambestwick](https://linktr.ee/jambestwick) senior Full-Stack Enigneer,use Android/Vue/Springboot, Expert in the field of **Mobile** development
 
-- 🗼 Living in Beijing<-->Xian, China
+- 🗼 Work in Beijing<-->Xian, China
 
 - ✈️ Open to Remote Job Opportunities 🍻
 
